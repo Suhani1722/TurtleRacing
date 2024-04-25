@@ -60,4 +60,4 @@ colors = COLORS[:racers]
 
 winner = race(colors)
 print("The winner is the turtle with color:", winner)
-time.sleep(5)3
+time.sleep(5)
